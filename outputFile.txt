@@ -1,0 +1,25 @@
+
+toyota
+hello
+world
+
+
+toyota
+hello
+world
+
+
+toyota
+hello
+world
+
+
+toyota
+hello
+world
+
+
+['toyota', 'camaro', 'corolla', 'camry\n']
+['hello', 'hi', 'bye', 'good', 'luck\n']
+['world', 'pakistan', 'india', 'libya', 'UK\n']
+['\n']

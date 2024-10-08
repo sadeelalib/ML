@@ -1,0 +1,4 @@
+toyota,camaro,corolla,camry
+hello,hi,bye,good,luck
+world,pakistan,india,libya,UK
+

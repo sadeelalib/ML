@@ -1,0 +1,100 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,United States,9/25/2021,2020,PG-13,90 min,Documentaries
+s3,TV Show,Ganglands,Julien Leclercq,France,9/24/2021,2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure"
+s6,TV Show,Midnight Mass,Mike Flanagan,United States,9/24/2021,2021,TV-MA,1 Season,"TV Dramas, TV Horror, TV Mysteries"
+s14,Movie,Confessions of an Invisible Girl,Bruno Garotti,Brazil,9/22/2021,2021,TV-PG,91 min,"Children & Family Movies, Comedies"
+s8,Movie,Sankofa,Haile Gerima,United States,9/24/2021,1993,TV-MA,125 min,"Dramas, Independent Movies, International Movies"
+s9,TV Show,The Great British Baking Show,Andy Devonshire,United Kingdom,9/24/2021,,TV-14,9 Seasons,"British TV Shows, Reality TV"
+s10,Movie,The Starling,Theodore Melfi,United States,9/24/2021,2021,PG-13,104 min,"Comedies, Dramas"
+s939,Movie,Motu Patlu in the Game of Zones,Suhas Kadav,India,5/1/2021,2019,TV-Y7,87 min,"Children & Family Movies, Comedies, Music & Musicals"
+s13,Movie,Je Suis Karl,Christian Schwochow,Germany,9/23/2021,2021,TV-MA,127 min,"Dramas, International Movies"
+s940,,Motu Patlu in Wonderland,Suhas Kadav,India,5/1/2021,2013,TV-Y7,76 min,"Children & Family Movies, Music & Musicals"
+s941,Movie,Motu Patlu: Deep Sea Adventure,Suhas Kadav,India,5/1/2021,2014,TV-Y7,76 min,"Children & Family Movies, Comedies"
+s942,Movie,Motu Patlu: Mission Moon,Suhas Kadav,India,5/1/2021,2013,TV-Y7,71 min,"Children & Family Movies, Comedies"
+s852,Movie,99 Songs (Tamil),Not Given,Pakistan,5/21/2021,2021,TV-14,131 min,"Dramas, International Movies, Music & Musicals"
+s471,Movie,Bridgerton - The Afterparty,"Krysia Plonka, Kristian Mercado",United States,7/13/2021,2021,TV-14,39 min,Movies
+s730,Movie,Bling Empire - The Afterparty,"Krysia Plonka, Kristian Mercado",United States,6/12/2021,2021,TV-MA,36 min,Movies
+s731,Movie,Cobra Kai - The Afterparty,"Krysia Plonka, Kristian Mercado",United States,6/12/2021,2021,TV-MA,34 min,Movies
+s913,Movie,The Circle - The Afterparty,"Krysia Plonka, Kristian Mercado",United States,5/7/2021,2021,TV-14,35 min,Comedies
+s4,TV Show,Jailbirds New Orleans,Not Given,Pakistan,9/24/2021,2021,TV-MA,1 Season,"Docuseries, Reality TV"
+s15,TV Show,Crime Stories: India Detectives,Not Given,Pakistan,9/22/2021,,TV-MA,1 Season,"British TV Shows, Crime TV Shows, Docuseries"
+s3232,Movie,True: Winter Wishes,"Mark Thornton, Todd Kauffman",United States,11/26/2019,2019,TV-Y,46 min,Children & Family Movies
+s4832,TV Show,True: Magical Friends,"Mark Thornton, Todd Kauffman",United States,6/15/2018,2018,TV-Y,1 Season,Kids' TV
+s4833,,True: Wonderful Wishes,"Mark Thornton, Todd Kauffman",United States,6/15/2018,2018,TV-Y,1 Season,
+s4857,TV Show,Dance & Sing with True,"Mark Thornton, Todd Kauffman",United States,5/18/2018,2018,TV-Y,1 Season,Kids' TV
+s7,Movie,My Little Pony: A New Generation,"Robert Cullen, José Luis Ucha",Not Given,9/24/2021,2021,,91 min,Children & Family Movies
+s12,TV Show,Bangkok Breaking,Kongkiat Komesiri,Not Given,9/23/2021,2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure"
+s17,Movie,Europe's Most Dangerous Man: Otto Skorzeny in Spain,"Pedro de Echave García, Pablo Azorín Williams",Not Given,9/22/2021,2020,TV-MA,67 min,"Documentaries, International Movies"
+s7930,Movie,Samudri Lootere,Anirban Majumder,Not Given,6/18/2019,2018,TV-Y,65 min,Children & Family Movies
+s21,TV Show,Monsters Inside: The 24 Faces of Billy Milligan,Olivier Megaton,United States,9/22/2021,2021,TV-14,1 Season,"Crime TV Shows, Docuseries, International TV Shows"
+s24,Movie,Go! Go! Cory Carson: Chrissy Takes the Wheel,"Alex Woo, Stanley Moore",United States,9/21/2021,2021,TV-Y,61 min,Children & Family Movies
+s25,Movie,Jeans,S. Shankar,India,9/21/2021,1998,TV-14,166 min,"Comedies, International Movies, Romantic Movies"
+s28,Movie,Grown Ups,Dennis Dugan,United States,9/20/2021,2010,PG-13,103 min,Comedies
+s29,Movie,Dark Skies,Scott Stewart,United States,9/19/2021,2013,PG-13,97 min,"Horror Movies, Sci-Fi & Fantasy"
+s30,Movie,Paranoia,Robert Luketic,United States,9/19/2021,2013,PG-13,106 min,Thrillers
+s20,TV Show,Jaguar,Not Given,Pakistan,9/22/2021,2021,TV-MA,1 Season,"International TV Shows, Spanish-Language TV Shows, TV Action & Adventure"
+s32,TV Show,Chicago Party Aunt,Not Given,Pakistan,9/17/2021,2021,TV-MA,1 Season,TV Comedies
+s34,TV Show,Squid Game,Not Given,Pakistan,9/17/2021,2021,TV-MA,1 Season,"International TV Shows, TV Dramas, TV Thrillers"
+s35,TV Show,Tayo and Little Wizards,Not Given,Pakistan,9/17/2021,2020,TV-Y7,1 Season,Kids' TV
+s75,TV Show,The World's Most Amazing Vacation Rentals,Not Given,Pakistan,9/14/2021,2021,TV-PG,2 Seasons,Reality TV
+s84,TV Show,Metal Shop Masters,Not Given,Pakistan,9/10/2021,2021,TV-MA,1 Season,Reality TV
+s86,TV Show,Pokémon Master Journeys: The Series,Not Given,Pakistan,9/10/2021,2021,TV-Y7,1 Season,"Anime Series, Kids' TV"
+s88,TV Show,Titipo Titipo,Not Given,Pakistan,9/10/2021,2019,TV-Y,2 Seasons,"Kids' TV, Korean TV Shows"
+s90,TV Show,Mighty Raju,Not Given,Pakistan,9/9/2021,2017,TV-Y7,4 Seasons,Kids' TV
+s101,TV Show,Tobot Galaxy Detectives,Not Given,Pakistan,9/7/2021,2019,TV-Y7,2 Seasons,Kids' TV
+s122,TV Show,Hotel Del Luna,Not Given,Pakistan,9/2/2021,2019,TV-14,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies"
+s133,TV Show,Brave Animated Series,Not Given,Pakistan,9/1/2021,2021,TV-MA,1 Season,"International TV Shows, TV Action & Adventure, TV Comedies"
+s148,TV Show,How to Be a Cowboy,Not Given,Pakistan,9/1/2021,2021,TV-PG,1 Season,Reality TV
+s166,,Oldsters,Not Given,Pakistan,9/1/2021,2019,,1 Season,
+s190,TV Show,Bread Barbershop,Not Given,Pakistan,8/28/2021,2020,TV-Y,2 Seasons,"Kids' TV, TV Comedies"
+s182,TV Show,Turning Point: 9/11 and the War on Terror,Not Given,Pakistan,9/1/2021,2021,TV-14,1 Season,Docuseries
+s187,TV Show,Hometown Cha-Cha-Cha,Not Given,Pakistan,8/29/2021,2021,TV-14,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies"
+s188,TV Show,The Ingenuity of the Househusband,Not Given,Pakistan,8/29/2021,2021,TV-G,1 Season,"International TV Shows, TV Comedies"
+s27,Movie,Minsara Kanavu,Rajiv Menon,India,9/21/2021,1997,TV-PG,147 min,"Comedies, International Movies, Music & Musicals"
+s19,Movie,Intrusion,Adam Salky,Not Given,9/22/2021,2021,TV-14,94 min,Thrillers
+s23,Movie,Avvai Shanmughi,K.S. Ravikumar,Not Given,9/21/2021,1996,TV-PG,161 min,"Comedies, International Movies"
+s31,Movie,Ankahi Kahaniya,"Ashwiny Iyer Tiwari, Abhishek Chaubey, Saket Chaudhary",Not Given,9/17/2021,2021,TV-14,111 min,"Dramas, Independent Movies, International Movies"
+s36,Movie,The Father Who Moves Mountains,Daniel Sandu,Not Given,9/17/2021,2021,TV-MA,110 min,"Dramas, International Movies, Thrillers"
+s37,Movie,The Stronghold,Cédric Jimenez,Not Given,9/17/2021,2021,TV-MA,105 min,"Action & Adventure, Dramas, International Movies"
+s39,Movie,Birth of the Dragon,George Nolfi,China,9/16/2021,2017,PG-13,96 min,"Action & Adventure, Dramas"
+s48,TV Show,The Smart Money Woman,Bunmi Ajakaiye,South Africa,9/16/2021,2020,TV-MA,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies"
+s76,Movie,You vs. Wild: Out Cold,Ben Simms,United States,9/14/2021,2021,TV-G,106 min,Children & Family Movies
+s42,Movie,Jaws,Steven Spielberg,United States,9/16/2021,1975,PG,124 min,"Action & Adventure, Classic Movies, Dramas"
+s43,Movie,Jaws 2,Jeannot Szwarc,United States,9/16/2021,1978,PG,116 min,"Dramas, Horror Movies, Thrillers"
+s44,Movie,Jaws 3,Joe Alves,United States,9/16/2021,1983,PG,98 min,"Action & Adventure, Horror Movies, Thrillers"
+s45,Movie,Jaws: The Revenge,Joseph Sargent,United States,9/16/2021,1987,PG-13,91 min,"Action & Adventure, Horror Movies, Thrillers"
+s47,Movie,Safe House,Daniel Espinosa,South Africa,9/16/2021,2012,R,115 min,Action & Adventure
+s49,Movie,Training Day,Antoine Fuqua,United States,9/16/2021,2001,R,122 min,"Dramas, Thrillers"
+s1093,Movie,Dolly Parton: A MusiCares Tribute,Not Given,Pakistan,4/7/2021,2021,TV-PG,55 min,"Documentaries, Music & Musicals"
+s195,TV Show,Deadly Sins,Not Given,Pakistan,8/27/2021,2002,TV-MA,1 Season,"International TV Shows, Spanish-Language TV Shows, TV Dramas"
+s52,Movie,InuYasha the Movie 2: The Castle Beyond the Looking Glass,Toshiya Shinohara,Japan,9/15/2021,2002,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+s53,Movie,InuYasha the Movie 3: Swords of an Honorable Ruler,Toshiya Shinohara,Japan,9/15/2021,2003,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+s54,Movie,InuYasha the Movie 4: Fire on the Mystic Island,Toshiya Shinohara,Japan,9/15/2021,2004,TV-PG,88 min,"Action & Adventure, Anime Features, International Movies"
+s55,Movie,InuYasha the Movie: Affections Touching Across Time,Toshiya Shinohara,Japan,9/15/2021,2001,TV-PG,100 min,"Action & Adventure, Anime Features, International Movies"
+s198,TV Show,I Heart Arlo,Not Given,Pakistan,8/27/2021,2021,TV-Y7,1 Season,"Kids' TV, TV Comedies"
+s56,TV Show,Nailed It,Not Given,United States,9/15/2021,2021,TV-PG,6 Seasons,Reality TV
+s498,TV Show,Cat People,Not Given,Pakistan,7/7/2021,2021,TV-14,1 Season,Docuseries
+s214,TV Show,RIDE ON TIME,Not Given,Pakistan,8/27/2021,2021,TV-PG,3 Seasons,"Docuseries, International TV Shows"
+s219,TV Show,Titletown High,Not Given,Pakistan,8/27/2021,2021,TV-14,1 Season,"Reality TV, Teen TV Shows"
+s225,TV Show,Motel Makeover,Not Given,Pakistan,8/25/2021,2021,TV-14,1 Season,"International TV Shows, Reality TV"
+s226,TV Show,Open Your Eyes,Not Given,Pakistan,8/25/2021,2021,TV-MA,1 Season,"International TV Shows, TV Dramas, TV Mysteries"
+s227,TV Show,Post Mortem: No One Dies in Skarnes,Not Given,Pakistan,8/25/2021,2021,TV-MA,1 Season,"International TV Shows, TV Comedies, TV Dramas"
+s46,Movie,My Heroes Were Cowboys,Tyler Greco,Not Given,9/16/2021,2021,PG,23 min,Documentaries
+s57,Movie,Naruto Shippuden the Movie: Blood Prison,Masahiko Murata,Japan,9/15/2021,2011,TV-14,102 min,"Action & Adventure, Anime Features, International Movies"
+s58,Movie,Naruto Shippûden the Movie: Bonds,Hajime Kamegaki,Japan,9/15/2021,2008,TV-PG,93 min,"Action & Adventure, Anime Features, International Movies"
+s59,Movie,Naruto Shippûden the Movie: The Will of Fire,Masahiko Murata,Japan,9/15/2021,2009,TV-PG,96 min,"Action & Adventure, Anime Features, International Movies"
+s60,Movie,Naruto Shippuden: The Movie,Hajime Kamegaki,Japan,9/15/2021,2007,TV-PG,95 min,"Action & Adventure, Anime Features, International Movies"
+s61,Movie,Naruto Shippuden: The Movie: The Lost Tower,Masahiko Murata,Japan,9/15/2021,2010,TV-14,85 min,"Action & Adventure, Anime Features, International Movies"
+s62,Movie,Naruto the Movie 2: Legend of the Stone of Gelel,Hirotsugu Kawasaki,Japan,9/15/2021,2005,TV-PG,97 min,"Action & Adventure, Anime Features, International Movies"
+s63,Movie,Naruto the Movie 3: Guardians of the Crescent Moon Kingdom,Toshiyuki Tsuru,Japan,9/15/2021,2006,TV-PG,95 min,"Action & Adventure, Anime Features, International Movies"
+s64,Movie,Naruto the Movie: Ninja Clash in the Land of Snow,Tensai Okamura,Japan,9/15/2021,2004,TV-PG,83 min,"Action & Adventure, Anime Features, International Movies"
+s243,TV Show,Comedy Premium League,Not Given,Pakistan,8/20/2021,2021,TV-MA,1 Season,"International TV Shows, TV Comedies"
+s244,TV Show,Everything Will Be Fine,Not Given,Pakistan,8/20/2021,2021,TV-MA,1 Season,"International TV Shows, Spanish-Language TV Shows, TV Comedies"
+s246,TV Show,Korean Cold Noodle Rhapsody,Not Given,Pakistan,8/20/2021,2021,TV-PG,1 Season,"Docuseries, International TV Shows"
+s249,TV Show,The Chair,Not Given,Pakistan,8/20/2021,2021,TV-MA,1 Season,"TV Comedies, TV Dramas"
+s261,TV Show,The Defeated,Not Given,Pakistan,8/18/2021,2020,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Dramas"
+s310,TV Show,Car Masters: Rust to Riches,Not Given,Pakistan,8/4/2021,2021,TV-PG,3 Seasons,Reality TV
+s74,Movie,King of Boys,Kemi Adetiba,Nigeria,9/14/2021,2018,TV-MA,182 min,"Dramas, International Movies"
+s321,TV Show,Top Secret UFO Projects: Declassified,Not Given,Pakistan,8/3/2021,2021,TV-PG,1 Season,Docuseries
+s337,TV Show,Friday Night Lights,Not Given,Pakistan,8/1/2021,2010,TV-14,5 Seasons,"TV Dramas, Teen TV Shows"
+s365,TV Show,Centaurworld,Not Given,Pakistan,7/30/2021,2021,TV-Y7,1 Season,"Kids' TV, TV Comedies"
